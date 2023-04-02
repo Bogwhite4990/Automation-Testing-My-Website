@@ -6,7 +6,7 @@ Cypress.io
 
 ## Installation
 Clone the repository and install the required packages:
-'''npm install'''
+''' npm install '''
 
 ## Running the tests
 To run the tests, open Cypress using the following command:
