@@ -1,16 +1,16 @@
 This repository contains automated tests for the website https://adrian-bogdan.com/ using Cypress.io.
 
 ## Requirements
-Node.js
-Cypress.io
+“*”Node.js
+“*”Cypress.io
 
 ## Installation
 Clone the repository and install the required packages:
-''' npm install '''
+``` npm install ```
 
 ## Running the tests
 To run the tests, open Cypress using the following command:
-'''npm run cy:open'''
+```npm run cy:open```
 Once Cypress is open, click on the test file adrian_bogdan.spec.js to run the tests.
 
 ## Description of tests
