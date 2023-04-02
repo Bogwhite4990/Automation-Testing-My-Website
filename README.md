@@ -14,7 +14,7 @@ To run the tests, open Cypress using the following command:
 Once Cypress is open, click on the test file adrian_bogdan.spec.js to run the tests.
 
 ##Description of tests
-The 'adrian_bogdan.spec.js' file contains tests for the following:
+The **adrian_bogdan.spec.js** file contains tests for the following:
 
 Testing if copyright exists
 Testing if the webpage name exists
