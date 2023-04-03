@@ -29,4 +29,4 @@ The **adrian_bogdan.spec.js** file contains tests for the following:
 
 ## Note
 * The test for the website name not existing has been disabled.
-* The test for the Download CV button functionality requires the download to complete for the test to pass. The test may fail if the download takes too long or if the download fails.
+* The test for the Download CV button functionality requires the download to complete for the test to pass. The test may fail if the download takes too long or if the download fails. 
