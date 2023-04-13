@@ -285,6 +285,12 @@ describe('Testing adrian-bogdan.com', () => {
         cy.get('.avatar').should('exist');
 
     })
+    
+    it('Resume page should contain some word', () => {
+        cy.visit('https://adrian-bogdan.com/resume');
+        
+        // Check if a word exist in the page
+    })
 
 
     
